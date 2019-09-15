@@ -1,0 +1,48 @@
+/*Selector{
+	property: value;
+}*/
+
+
+h1{
+	color: rgb(4, 224, 234);
+	text-align: center;
+	cursor: pointer;
+	border: 2px solid rgba(39, 117, 84, 0.5);
+	font-size: 35px;
+}
+
+h3{
+	
+	color: rgb( 136, 0, 0);
+	font-size: 20px;
+}
+.head{
+	color: rgb( 136, 0, 0);
+	font-size: 20px;
+}
+p{
+	color: rgb(136, 0, 0);
+	font-size: 115%;
+	font-style: italic;
+	font-weight: bold;
+	font-family: 'Arizonia', cursive;
+}
+img{
+	float: right;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	text-align: center;
+	color: white;
+}
+footer{
+	text-align: center;
+	color: white;
+}
+p{
+	font-size: 20px;
+}
+span{
+	font-size: 4em;
+}
